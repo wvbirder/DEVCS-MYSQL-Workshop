@@ -1,0 +1,44 @@
+{
+    "workshop": {
+        "title": "Docker Workshop",
+        "description": "These labs will give you a basic understanding of Docker concepts and deployments",
+        "interactive":"https://launch.oracle.com/?docker-workshop",
+        "versions": [
+            {
+              "name": "Linux Trial Account",
+              "description": "Use Linux to develop and deploy with Docker and perform this workshop",
+              "imageUrl": "https://oracle.github.io/learning-library/workshops/common-content/images/common/linux.png"
+            }
+        ],
+        "labs": [
+            {
+                "number": "0",
+                "filename": "Intro.md",
+                "title": "Introduction",
+                "description": "Obtain an Oracle Cloud Trial Account",
+                "labels": {"version": "Trial Account"}
+            },
+            {
+                "number": "100",
+                "filename": "Lab100.md",
+                "title": "Lab 100: Cloud Infrastructure Configuration",
+                "description": "Setting up the Infrastructure to support a Compute Instance running Docker",
+                "labels": {"version": "Trial Account"}
+            },
+            {
+                "number": "200",
+                "filename": "Lab200.md",
+                "title": "Lab 200: Docker Introduction",
+                "description": "Concepts, commands and a simple deployment",
+                "labels": {"version": "Trial Account"}
+            },
+            {
+                "number": "300",
+                "filename": "Lab300.md",
+                "title": "Lab 300: AlphaOffice Deployment",
+                "description": "Multi-container Application deployment using a Database",
+                "labels": {"version": "Trial Account"}
+            }          
+        ]
+    }
+}

@@ -2,7 +2,7 @@
     "workshop": {
         "title": "MySQL Deployment using Infrastructure as Code Workshop",
         "description": "These labs will give you a basic understanding of Develope Cloud Service infrastrusture concepts and deployments",
-        "interactive":"https://launch.oracle.com/?docker-workshop",
+        "interactive":"https://launch.oracle.com/?devcs-mysql-workshop",
         "versions": [
             {
               "name": "Trial Account",
@@ -22,14 +22,14 @@
                 "number": "100",
                 "filename": "Lab100.md",
                 "title": "Lab 100: Infratructure as Code",
-                "description": "Setting up the Infrastructure using Developer Cloud Service to support a Compute Instance running MYSQL",
+                "description": "Setting up the Infrastructure using Developer Cloud Service to provision a Compute Instance running MYSQL",
                 "labels": {"version": "Trial Account"}
             },
             {
                 "number": "200",
                 "filename": "Lab200.md",
                 "title": "Lab 200: AlphaOffice Application Deployment",
-                "description": "Application Deployment into the Application Container Cloud Service",
+                "description": "Deployment into Application Container Cloud Service",
                 "labels": {"version": "Trial Account"}
             },
             {

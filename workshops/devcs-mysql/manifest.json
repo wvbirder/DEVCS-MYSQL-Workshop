@@ -24,21 +24,7 @@
                 "title": "Lab 100: Infratructure as Code",
                 "description": "Setting up the Infrastructure using Developer Cloud Service to provision a Compute Instance running MYSQL",
                 "labels": {"version": "Trial Account"}
-            },
-            {
-                "number": "200",
-                "filename": "Lab200.md",
-                "title": "Lab 200: AlphaOffice Application Deployment",
-                "description": "Deployment into Application Container Cloud Service",
-                "labels": {"version": "Trial Account"}
-            },
-            {
-                "number": "300",
-                "filename": "Lab300.md",
-                "title": "Lab 300: AlphaOffice CI/CD",
-                "description": "Make changes to the AlphaOffice application to re-build and re-deploy",
-                "labels": {"version": "Trial Account"}
-            }          
+            }         
         ]
     }
 }

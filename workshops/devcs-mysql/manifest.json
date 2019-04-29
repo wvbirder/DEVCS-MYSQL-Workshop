@@ -1,6 +1,6 @@
 {
     "workshop": {
-        "title": "MYSQL Deployment using Infrastructure as Code",
+        "title": "DevOps and Infrastructure as Code ",
         "description": "These labs will give you a basic understanding of Develope Cloud Service infrastrusture concepts and deployments",
         "interactive":"https://launch.oracle.com/?devcs-mysql-workshop",
         "labs": [

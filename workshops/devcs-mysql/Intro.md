@@ -1,4 +1,4 @@
-# MySQL Deployment using Infrastructure as Code
+# DevOps and Infrastructure as Code
 
 Welcome to the **Oracle Cloud** MySQL Deployment using Infrastructure as Code workshop. This workshop will walk you through the process of creating an infrastructure to support deployment of a MYSQL in the Oracle Cloud using Developer Cloud Service.
 
